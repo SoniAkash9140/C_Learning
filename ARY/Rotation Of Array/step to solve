@@ -1,0 +1,4 @@
+s-1) if k is greater than n : k=k%n
+s-2) reverse(arr,0,n-1)
+s-3) reverse(arr,0,k-1)
+s-4) reverse(arr,k,n-1)
